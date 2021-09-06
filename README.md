@@ -15,12 +15,14 @@ __1. Objetivos__
 
 __2. Marco Teórico__ 
 
-![](https://github.com/ItzAdoc/ImaL7/blob/main/MarcoT.jpeg)
+![](https://github.com/DiegoLimaespe/fotos-lab8/blob/main/.jpeg)
 
 
 __3. Explicación del Procedimiento__
 
 __3.1 Implemente el circuito que se presenta en la figura 7.1__
+
+![](https://github.com/DiegoLimaespe/fotos-lab8/blob/main/7.1.jpg)
 
 3.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 

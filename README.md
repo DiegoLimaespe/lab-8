@@ -30,6 +30,8 @@ __3.1 Implemente el circuito que se presenta en la figura 7.1__
 
 3.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
+![](https://github.com/DiegoLimaespe/fotos-lab8/blob/main/ovrl.jpg)
+
 
 __4. Respuesta a Interrogantes__
 

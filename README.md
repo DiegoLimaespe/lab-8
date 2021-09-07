@@ -105,11 +105,3 @@ __6. Coclusiones__
 * El voltaje pico es la máxima altura a la que llega la onda, también conocida como amplitud, existe 2 voltajes pico uno positivo y uno negativo. El voltaje rms o también llamado voltaje eficaz el cual se podría decir que es la representación DC de una onda CA y por último esta el voltaje pico es cual es la suma de los 2 voltajes pico o el voltaje pico multiplicado por dos. 
 
 
-
-__7. Bibliografía__
-
-* Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
-
-* Armando Emanuel , Monografias.com. (s. f.). Boninas y Capacitores - Monografias.com. Monográfias.com. Recuperado 29 de agosto de 2021, de https://www.monografias.com/trabajos100/boninas-y-capacitores/boninas-y-capacitores.shtml
-
-* Francisco, J. (s. f.). Valores de una onda o señal alterna (senoidal) | Departamento de Electricidad-Electrónica. Departamento de Electricidad-Electrónica. Recuperado 29 de agosto de 2021, de https://cifpn1.com/electronica/?p=4113

@@ -15,7 +15,7 @@ __1. Objetivos__
 
 __2. Marco Teórico__ 
 
-![](https://github.com/DiegoLimaespe/fotos-lab8/blob/main/.jpeg)
+
 
 
 __3. Explicación del Procedimiento__
@@ -59,18 +59,18 @@ Amplitud de voltaje: 6.85 (V)
 
 Para sacar el periodo se ve en el osciloscopio cuando la onda cumple un ciclo, aproximadamente en el osciloscopio un ciclo se cumple en 4 divisiones y cada división es un 1 ms, por lo tanto:
 
-imagen formula
+![](https://github.com/DiegoLimaespe/fotos-lab8/blob/main/t.jpg)
 
 Periodo:  4ms(s)
 
 __4.3. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.__
 
-imagen formula
+![](https://github.com/DiegoLimaespe/fotos-lab8/blob/main/f.jpg)
 
 f: 250(Hz)
 
-imagen formula 
+![](https://github.com/DiegoLimaespe/fotos-lab8/blob/main/w.jpg)
 
 ω: 500π(rad/s)
 

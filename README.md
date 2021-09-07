@@ -15,7 +15,7 @@ __1. Objetivos__
 
 __2. Marco Teórico__ 
 
-
+![](https://github.com/DiegoLimaespe/fotos-lab8/blob/main/teo.jpg)
 
 
 __3. Explicación del Procedimiento__
@@ -94,7 +94,7 @@ Porque en el punto 4.4 el voltímetro mide el voltaje rms (voltaje eficaz) y en 
 
 __5. Video__
 
-
+* https://youtu.be/xPtJcGzU8e0
 
 __6. Coclusiones__ 
 
@@ -103,5 +103,10 @@ __6. Coclusiones__
 * Esto 3 conceptos están relacionados entre ellos ya que el periodo depende de la frecuencia y viceversa, además de que la velocidad angular depende de la frecuencia, estos 3 conceptos van de la mano ya que con uno se calcula el otro. 
 
 * El voltaje pico es la máxima altura a la que llega la onda, también conocida como amplitud, existe 2 voltajes pico uno positivo y uno negativo. El voltaje rms o también llamado voltaje eficaz el cual se podría decir que es la representación DC de una onda CA y por último esta el voltaje pico es cual es la suma de los 2 voltajes pico o el voltaje pico multiplicado por dos. 
+
+__7. Bibliografía__
+
+
+* Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning
 
 

@@ -36,26 +36,33 @@ __3.1 Implemente el circuito que se presenta en la figura 7.1__
 __4. Respuesta a Interrogantes__
 
 4.1. Responda las siguientes preguntas:
+
 __¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?__
 
 La amplitud pico abarca aproximadamente 2.25 divisiones 	
  
 __¿En qué valor está posicionada la perilla VOLTS/DIV?__
+
 Esta posicionada en 3 voltios por división 
 
 __¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?__
+
 Un ciclo de la onda abarca aproximadamente 4 divisiones 
+
 __¿En qué valor está posicionada la perilla TIME/DIV?__
+
 Esta posicionada en 1 ms por división 
 
 __4.2. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?__
 
 Amplitud de voltaje: 6.85 (V)
+
 Para sacar el periodo se ve en el osciloscopio cuando la onda cumple un ciclo, aproximadamente en el osciloscopio un ciclo se cumple en 4 divisiones y cada división es un 1 ms, por lo tanto:
 
 imagen formula
 
 Periodo:  4ms(s)
+
 __4.3. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.__
 
@@ -74,6 +81,7 @@ imagen
 
  4.792V
 __4.5. Compare el voltaje medido en el punto 4.2. y el obtenido en el punto 4.4.__
+
 __¿Coinciden?__
 
 No coinciden 

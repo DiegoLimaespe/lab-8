@@ -77,9 +77,10 @@ imagen formula
 __4.4. Con el multímetro digital mida el voltaje de salida en RL:__
 
 
-imagen 
+![](https://github.com/DiegoLimaespe/fotos-lab8/blob/main/mvrl.jpg)
 
- 4.792V
+ 4.743V
+ 
 __4.5. Compare el voltaje medido en el punto 4.2. y el obtenido en el punto 4.4.__
 
 __¿Coinciden?__
